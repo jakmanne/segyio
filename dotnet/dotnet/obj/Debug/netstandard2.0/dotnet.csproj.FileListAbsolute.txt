@@ -1,0 +1,9 @@
+C:\Users\Jakob\segyio\dotnet\dotnet\bin\Debug\netstandard2.0\dotnet.deps.json
+C:\Users\Jakob\segyio\dotnet\dotnet\bin\Debug\netstandard2.0\dotnet.dll
+C:\Users\Jakob\segyio\dotnet\dotnet\bin\Debug\netstandard2.0\dotnet.pdb
+C:\Users\Jakob\segyio\dotnet\dotnet\obj\Debug\netstandard2.0\dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\segyio\dotnet\dotnet\obj\Debug\netstandard2.0\dotnet.AssemblyInfoInputs.cache
+C:\Users\Jakob\segyio\dotnet\dotnet\obj\Debug\netstandard2.0\dotnet.AssemblyInfo.cs
+C:\Users\Jakob\segyio\dotnet\dotnet\obj\Debug\netstandard2.0\dotnet.dll
+C:\Users\Jakob\segyio\dotnet\dotnet\obj\Debug\netstandard2.0\dotnet.pdb
+C:\Users\Jakob\segyio\dotnet\dotnet\obj\Debug\netstandard2.0\dotnet.csprojAssemblyReference.cache
