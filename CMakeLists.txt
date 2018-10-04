@@ -60,6 +60,8 @@ endif ()
 option(BUILD_SHARED_LIBS "Build language bindings shared"           OFF)
 option(BUILD_PYTHON      "Build Python library"                     ON)
 option(REQUIRE_PYTHON    "Fail cmake if python cannot be built"     OFF)
+option(BUILD_DOTNET      "Build dotnet library"                     OFF)
+option(REQUIRE_PYTHON    "Fail cmake if dotnet cannot be built"     OFF)
 option(BUILD_MEX         "Build Matlab mex files"                   OFF)
 option(BUILD_DOC         "Build documentation"                      OFF)
 
@@ -131,6 +133,7 @@ add_custom_target(doc ALL)
 
 set(testdata ${CMAKE_CURRENT_SOURCE_DIR}/test-data)
 
+
 add_subdirectory(external/catch2)
 add_subdirectory(lib)
 # language bindings
@@ -139,3 +142,6 @@ add_subdirectory(python)
 
 add_subdirectory(applications)
 add_subdirectory(man)
+add_subdirectory(dotnet)
+
+
