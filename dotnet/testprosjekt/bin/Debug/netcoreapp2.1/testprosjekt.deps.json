@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "testprosjekt/1.0.0": {
+        "dependencies": {
+          "dotnet": "1.0.0"
+        },
+        "runtime": {
+          "testprosjekt.dll": {}
+        }
+      },
+      "dotnet/1.0.0": {
+        "runtime": {
+          "dotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testprosjekt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

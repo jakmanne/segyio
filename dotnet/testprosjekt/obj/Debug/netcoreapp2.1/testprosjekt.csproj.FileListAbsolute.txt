@@ -1,0 +1,14 @@
+C:\Users\Jakob\segyio\dotnet\testprosjekt\bin\Debug\netcoreapp2.1\testprosjekt.deps.json
+C:\Users\Jakob\segyio\dotnet\testprosjekt\bin\Debug\netcoreapp2.1\testprosjekt.runtimeconfig.json
+C:\Users\Jakob\segyio\dotnet\testprosjekt\bin\Debug\netcoreapp2.1\testprosjekt.runtimeconfig.dev.json
+C:\Users\Jakob\segyio\dotnet\testprosjekt\bin\Debug\netcoreapp2.1\testprosjekt.dll
+C:\Users\Jakob\segyio\dotnet\testprosjekt\bin\Debug\netcoreapp2.1\testprosjekt.pdb
+C:\Users\Jakob\segyio\dotnet\testprosjekt\bin\Debug\netcoreapp2.1\dotnet.dll
+C:\Users\Jakob\segyio\dotnet\testprosjekt\bin\Debug\netcoreapp2.1\dotnet.pdb
+C:\Users\Jakob\segyio\dotnet\testprosjekt\obj\Debug\netcoreapp2.1\testprosjekt.csprojAssemblyReference.cache
+C:\Users\Jakob\segyio\dotnet\testprosjekt\obj\Debug\netcoreapp2.1\testprosjekt.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\segyio\dotnet\testprosjekt\obj\Debug\netcoreapp2.1\testprosjekt.AssemblyInfoInputs.cache
+C:\Users\Jakob\segyio\dotnet\testprosjekt\obj\Debug\netcoreapp2.1\testprosjekt.AssemblyInfo.cs
+C:\Users\Jakob\segyio\dotnet\testprosjekt\obj\Debug\netcoreapp2.1\testprosjekt.csproj.CopyComplete
+C:\Users\Jakob\segyio\dotnet\testprosjekt\obj\Debug\netcoreapp2.1\testprosjekt.dll
+C:\Users\Jakob\segyio\dotnet\testprosjekt\obj\Debug\netcoreapp2.1\testprosjekt.pdb
